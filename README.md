@@ -1,6 +1,8 @@
 # BacktrackingSearchProblems
 This repository contains search problems code
+
 Here are some common problems that can be solved using backtracking search:
+
 These problems may also be solved using other techniques, but backtracking is a commonly used method for solving these problems efficiently.
 
 1. n-Queens problem
