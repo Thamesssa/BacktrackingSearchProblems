@@ -49,6 +49,6 @@ def solveNQueens():
         return False
 
 # Driver Code
-N = 4
+N = 4 
 solveNQueens()
 
